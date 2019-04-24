@@ -1,0 +1,12 @@
+com\expleo\qe\Step\AddingToCartSteps.class
+com\expleo\qe\Step\LoginSteps.class
+com\expleo\qe\PageObjects\LogoutPageObjects.class
+com\expleo\qe\StepDefinition\OnlinePurchaseSteps.class
+com\expleo\qe\Step\LogoutSteps.class
+com\expleo\qe\Step\RegistrationSteps.class
+com\expleo\qe\PageObjects\LoginPageObjects.class
+com\expleo\qe\PageObjects\CheckoutPageObjects.class
+com\expleo\qe\PageObjects\RegistrationPageObjects.class
+com\expleo\qe\Step\CheckoutSteps.class
+com\expleo\qe\Runner\RunnerTest.class
+com\expleo\qe\PageObjects\AddingToCartPageObjects.class
